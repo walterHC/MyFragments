@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name_homefragment">Home Fragment</string>
+    <string name="name_eventsfragment">Events Fragment</string>
+    <string name="name_profilefragment">Profile Fragment</string>
+    <string name="name_settingsfragment">Settings Fragment</string>
+
+</resources>
